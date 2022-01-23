@@ -10,9 +10,7 @@
 <p>The proof is in the numbers, see below for a visualization of how I came to my conclusion: 
 
   
-![cityType](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/Fig6.png)
-
-![drivers](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/Fig7.png)
+![cityType](https://github.com/SarahMason2015/PyBer_Analysis/blob/24c7f535635b0818d0285179ce54df7a87dc6ba4/Resources/Combined%20pie.png)
     
 ![Totals](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/TotalsPyber.png)
   
