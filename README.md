@@ -1,4 +1,4 @@
-**<h1>Pyber Analysis</h1>**
+**<h1>PyBer Analysis</h1>**
 
 <h2>Overview</h2>
 
