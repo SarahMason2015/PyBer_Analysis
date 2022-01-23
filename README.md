@@ -13,10 +13,10 @@
 ![cityType](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/Fig6.png)
 
 ![drivers](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/Fig7.png)
-  
-![Count](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/Fig2.png)
-  
+    
 ![Totals](https://github.com/SarahMason2015/PyBer_Analysis/blob/44c55b8e51edb8d325b0df178dad0d53cd69d573/Resources/TotalsPyber.png)
+  
+![Line](https://github.com/SarahMason2015/PyBer_Analysis/blob/fcdd0e1b41bc6786ab42cbfabfac84bdf98ade6c/Analysis/Pyber_fare_summary.png)
 
 <h2>Summary</h2>
 <p> PyBer would like to help the underserved and underprivileged areas. As visualized above, the areas most underserved are suburban, and rural areas. To help PyBer increase their presence in these areas I first believe they need to see if there is an actual need. Urban areas have more places to go, things to do. Suburban areas tend to have more families, they’re not interested in the same things as people who live in more urban areas. This also applies to rural areas; the needs are different. I believe it would be helpful to analyze where people are going, what are they doing, and is it for business, pleasure, or day to day errands. Knowing these things, will allow us to see if there is a need, and how best to fix it. 
